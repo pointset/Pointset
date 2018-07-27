@@ -1,2 +1,3 @@
 # Pointset
 A new generation of high performance public blockchain
+As an underlying network, PointSet is based on distributed technology, building a decentralized network system. It plays an important role in obtaining information from the underlying layers and high-performance storage, processing intermediate data and recording on the chain, providing api and sdk to the application layer and providing the underlying data and connecting the upper application. SET in the token economic model serves as the medium of the ecological system while multi-layer mining system guarantees the virtuous circle of the entire loop. 
